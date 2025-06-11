@@ -1,29 +1,29 @@
 <!-- Mahmut Can Çokçapar | @mahmutcancokcapar -->
 
-<h1 align="center">Hi there, I'm Mahmut Can Çokçapar 👋</h1>
+<h1 align="center">Merhaba, ben Mahmut Can Çokçapar 👋</h1>
 <p align="center">
-  <strong>Software Engineer & Mobile App Developer</strong>
+  <strong>Yazılım Mühendisi & Mobil Uygulama Geliştiricisi</strong>
 </p>
 
 <p align="center">
-  <a href="https://mcmedya.online" target="_blank">🌐 Personal Website</a> •
+  <a href="https://mcmedya.online" target="_blank">🌐 Kişisel Web Sitem</a> •
   <a href="https://www.linkedin.com/in/mahmut-can-çokçapar-4a2a62233" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Hakkımda
 
-- 👨‍💻 Passionate Software Engineer & Mobile App Developer
-- 🛠️ Building creative solutions with **Flutter, Dart, Node.js, React, Firebase, SQL** and more
-- 🌍 Traveler at heart, discovering new places, cultures, and ideas
-- ☕ Enjoys coding with a cup of Turkish coffee
-- 🏠 Big fan of property tech and real estate innovation
-- 🤝 Open to collaboration on exciting projects & always learning new technologies
+- 👨‍💻 Tutkulu Yazılım Mühendisi & Mobil Uygulama Geliştiricisi
+- 🛠️ **Flutter, Dart, Node.js, React, Firebase, SQL** ve daha fazlası ile yaratıcı çözümler geliştiriyorum
+- 🌍 Seyahat etmeyi, yeni yerler ve kültürler keşfetmeyi seviyorum
+- ☕ Türk kahvesi eşliğinde kod yazmak en keyif aldığım anlardan biri
+- 🏠 Emlak teknolojileri ve gayrimenkul inovasyonuna meraklıyım
+- 🤝 Heyecan verici projelerde iş birliğine açığım ve sürekli öğreniyorum
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Teknoloji Stack'im
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
@@ -38,43 +38,43 @@
 
 ---
 
-### 🌟 Highlighted Projects
+### 🌟 Öne Çıkan Projelerim
 
-#### [Seyahat Defteri](#)
-A Flutter-based social travel app where users share places they visit, leave reviews, and interact with other travelers.
+#### Deprem Takip Uygulaması
+Kullanıcıların anlık olarak depremleri takip edebildiği mobil uygulama.
 
-#### [Food Freshness Analyzer](#)
-A mobile app that determines food freshness from images.
+#### 101 Yazboz Oyunu
+Flutter tabanlı, arkadaşlarla çevrimiçi veya çevrimdışı oynanabilen 101 yazboz oyunu.
 
-#### [Music Recognizer App](#)
-An app where users hum a melody and get song suggestions.
+#### Oyun Arkadaşı Bulma ve Kurma Platformu
+Kullanıcıların oyun oynamak için kolayca arkadaş bulabildiği ve oyunlar oluşturabildiği mobil platform.
 
-> _Want to see more? Check out my pinned repositories below!_
-
----
-
-### ✍️ Motto
-
-> _"Keep building. Great things start with small, consistent steps."_
+> _Daha fazlası için aşağıdaki sabitlenmiş depolarıma göz atabilirsiniz!_
 
 ---
 
-### 🌱 Fun Facts
+### ✍️ Sloganım
 
-- ✈️ Traveling and discovering new places is my passion
-- 📱 I love inventing and coding creative mobile apps
-- 🏠 Real estate & property tech enthusiast
-- ☕ Always up for a good cup of Turkish coffee
+> _"İnşa etmeye devam et. Büyük işler küçük ve sürekli adımlarla başlar."_
 
 ---
 
-### 📫 Let's Connect!
+### 🌱 Hakkımda Eğlenceli Bilgiler
+
+- ✈️ Seyahat etmek ve yeni yerler keşfetmek tutkularımdan biri
+- 📱 Yaratıcı mobil uygulamalar geliştirmekten büyük keyif alıyorum
+- 🏠 Gayrimenkul ve emlak teknolojilerine ilgiliyim
+- ☕ Türk kahvesi eşliğinde kod yazmak vazgeçilmezim
+
+---
+
+### 📫 Bana Ulaşın
 
 - [LinkedIn](https://www.linkedin.com/in/mahmut-can-çokçapar-4a2a62233)
-- [Personal Website](https://mcmedya.online)
+- [Kişisel Web Sitem](https://mcmedya.online)
 
 ---
 
 <p align="center">
-  <em>Open to collaboration | Always eager to learn and grow 🚀</em>
+  <em>İş birliklerine açığım | Her zaman öğrenmeye ve gelişmeye hevesliyim 🚀</em>
 </p>
