@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mcmedya.online" target="_blank">🌐 Kişisel Web Sitem</a> •
+  <a href="https://mcmedya.netlify.app" target="_blank">🌐 Kişisel Web Sitem</a> •
   <a href="https://www.linkedin.com/in/mahmut-can-çokçapar-4a2a62233" target="_blank">LinkedIn</a>
 </p>
 
