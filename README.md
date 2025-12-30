@@ -27,7 +27,7 @@ Passionate Software Engineer specializing in cross-platform mobile development a
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
